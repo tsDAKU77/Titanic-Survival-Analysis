@@ -97,19 +97,3 @@ jupyter notebook Data_Storytelling_Analysing_Survival_on_the_Titanic.ipynb
 This project demonstrates how storytelling with data can make analysis more impactful and memorable. It blends **statistics**, **visuals**, and **narrative** to convey deeper insights into the Titanic tragedy — transforming a dataset into a story of human survival and social patterns.
 
 ---
-
-## Project Structure (suggested)
-
-```
-Data_Storytelling_Titanic/
-├── data/
-│   └── titanic.csv
-├── notebooks/
-│   └── Data_Storytelling_Analysing_Survival_on_the_Titanic.ipynb
-├── requirements.txt
-└── README.md
-```
-
----
-
-If you want this as a downloadable `README.md` file or need any edits (more technical details, badges, license, or contribution guidelines), tell me what to change.
