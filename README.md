@@ -98,7 +98,7 @@ This project demonstrates how storytelling with data can make analysis more impa
 
 ---
 
-## Project Structure (suggested)
+## Project Structure
 
 ```
 Data_Storytelling_Titanic/
